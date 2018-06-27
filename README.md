@@ -1,2 +1,2 @@
 # AvroKafkaProducer
-Created Avro Producer with rest endpoint
+Created REST based Kafka Producer for avro schemas

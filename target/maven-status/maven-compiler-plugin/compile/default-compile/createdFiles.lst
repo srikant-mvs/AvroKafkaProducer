@@ -1,0 +1,9 @@
+com\spring\kafka\avro\producer\beans\MongoTransactions$1.class
+com\spring\kafka\avro\producer\beans\Producer.class
+com\spring\kafka\avro\producer\controller\AvroProducerRestEndPoint.class
+com\spring\kafka\avro\producer\beans\MongoTransactions$Builder.class
+com\spring\kafka\avro\producer\controller\HelloWorldRestController.class
+com\spring\kafka\avro\producer\config\AvroKafkaConfigs.class
+com\spring\kafka\avro\producer\AvroKafkaMainProducerApp.class
+com\spring\kafka\avro\producer\beans\MongoTransactions.class
+com\spring\kafka\avro\producer\serilizer\AvroSerializer.class

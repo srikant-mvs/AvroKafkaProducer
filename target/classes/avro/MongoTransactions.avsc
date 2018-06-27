@@ -1,0 +1,16 @@
+{
+  "namespace": "com.spring.kafka.avro.producer.beans",
+  "type": "record",
+  "name": "MongoTransactions",
+  "fields": [
+    { "name": "Id", "type": "int"},
+    { "name": "amount", "type": "double"},
+    { "name": "biller", "type": ["string", "null"]},
+    { "name": "created_on", "type": ["string", "null"]},
+    { "name": "fradulent", "type": "string"},
+    { "name": "location", "type": ["string", "null"]},
+    { "name": "mode_of_payment", "type": "string"},
+    { "name": "status", "type": "string"},
+    { "name": "user_id", "type": ["string", "null"]}
+  ]
+}
